@@ -37,3 +37,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* button */
+.btn {
+  padding: 1em;
+  background-color: green;
+  color: white;
+  border: none;
+  outline: none;
+  font-size: 0.6em;
+}
+
+.btn:hover {
+  background-color: rgb(44, 139, 44);
+  cursor: pointer;
+}
